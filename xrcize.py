@@ -1,1 +1,1 @@
-import file2.file2_function
+print(" My exercize")
