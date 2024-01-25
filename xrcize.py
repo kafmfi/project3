@@ -3,3 +3,4 @@ def print_out(n):
 
 
 print_out("Mohona")
+print("kazi")
